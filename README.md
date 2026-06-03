@@ -10,4 +10,4 @@
 ## 许可说明
 
 本仓库采用 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** 许可协议。  
-详情请见 `/tmp/workspace/AlCenZ/tanglegram_tree/LICENSE`。
+详情请见 `LICENSE`。
